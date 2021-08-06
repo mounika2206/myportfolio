@@ -382,7 +382,10 @@ section .title::after{
 
 /* teams section styling */
 .teams .title::after{
-    content: "See my Profile";
+    content: "See my ";
+}
+.teams .title::after{
+    content: "See my ";
 }
 .teams .carousel .card{
     background: white;
